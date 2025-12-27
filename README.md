@@ -1,2 +1,3 @@
 # GoDot_Course_Game
- A game developed to obtain a certificate.
+
+A parody of Fireboy and Watergirl, developed as part of the course requirements for certificate acquisition.
