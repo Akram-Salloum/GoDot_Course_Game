@@ -1,0 +1,113 @@
+[gd_scene load_steps=3 format=3 uid="uid://bhwy1b62udqtw"]
+
+[ext_resource type="Texture2D" uid="uid://b6cokbjptkskq" path="res://back.png" id="1_p0pli"]
+[ext_resource type="Texture2D" uid="uid://c1gxybyfj4ic6" path="res://Gray.png" id="2_fgyff"]
+
+[node name="Back" type="Sprite2D"]
+position = Vector2(576.5, 325.00003)
+scale = Vector2(2.9921875, 2.6916668)
+texture = ExtResource("1_p0pli")
+
+[node name="Gray" type="Sprite2D" parent="."]
+position = Vector2(-159.91644, 88.04952)
+texture = ExtResource("2_fgyff")
+
+[node name="Gray2" type="Sprite2D" parent="."]
+position = Vector2(-96.417755, 88.04952)
+texture = ExtResource("2_fgyff")
+
+[node name="Gray3" type="Sprite2D" parent="."]
+position = Vector2(-32.66841, 87.72754)
+texture = ExtResource("2_fgyff")
+
+[node name="Gray4" type="Sprite2D" parent="."]
+position = Vector2(30.830276, 87.72754)
+texture = ExtResource("2_fgyff")
+
+[node name="Gray5" type="Sprite2D" parent="."]
+position = Vector2(94.8303, 87.72754)
+scale = Vector2(1.0052218, 1)
+texture = ExtResource("2_fgyff")
+
+[node name="Gray6" type="Sprite2D" parent="."]
+position = Vector2(159.24806, 87.72754)
+scale = Vector2(1.023499, 1)
+texture = ExtResource("2_fgyff")
+
+[node name="Gray7" type="Sprite2D" parent="."]
+position = Vector2(-159.6658, 24.148598)
+texture = ExtResource("2_fgyff")
+
+[node name="Gray8" type="Sprite2D" parent="."]
+position = Vector2(-96.167114, 24.148598)
+texture = ExtResource("2_fgyff")
+
+[node name="Gray9" type="Sprite2D" parent="."]
+position = Vector2(-32.41777, 23.826614)
+texture = ExtResource("2_fgyff")
+
+[node name="Gray10" type="Sprite2D" parent="."]
+position = Vector2(31.08092, 23.826614)
+texture = ExtResource("2_fgyff")
+
+[node name="Gray11" type="Sprite2D" parent="."]
+position = Vector2(95.08094, 23.826607)
+scale = Vector2(1.0052218, 1)
+texture = ExtResource("2_fgyff")
+
+[node name="Gray12" type="Sprite2D" parent="."]
+position = Vector2(159.4987, 23.82662)
+scale = Vector2(1.023499, 1)
+texture = ExtResource("2_fgyff")
+
+[node name="Gray13" type="Sprite2D" parent="."]
+position = Vector2(-160, -40.074314)
+texture = ExtResource("2_fgyff")
+
+[node name="Gray14" type="Sprite2D" parent="."]
+position = Vector2(-96.501305, -40.074314)
+texture = ExtResource("2_fgyff")
+
+[node name="Gray15" type="Sprite2D" parent="."]
+position = Vector2(-32.334198, -40.07429)
+texture = ExtResource("2_fgyff")
+
+[node name="Gray16" type="Sprite2D" parent="."]
+position = Vector2(31.16449, -40.07429)
+texture = ExtResource("2_fgyff")
+
+[node name="Gray17" type="Sprite2D" parent="."]
+position = Vector2(95.16451, -40.074303)
+scale = Vector2(1.0052218, 1)
+texture = ExtResource("2_fgyff")
+
+[node name="Gray18" type="Sprite2D" parent="."]
+position = Vector2(159.58228, -40.07428)
+scale = Vector2(1.023499, 1)
+texture = ExtResource("2_fgyff")
+
+[node name="Gray19" type="Sprite2D" parent="."]
+position = Vector2(-159.74936, -103.975235)
+texture = ExtResource("2_fgyff")
+
+[node name="Gray20" type="Sprite2D" parent="."]
+position = Vector2(-96.25066, -103.975235)
+texture = ExtResource("2_fgyff")
+
+[node name="Gray21" type="Sprite2D" parent="."]
+position = Vector2(-32.083557, -103.97522)
+texture = ExtResource("2_fgyff")
+
+[node name="Gray22" type="Sprite2D" parent="."]
+position = Vector2(31.415133, -103.97522)
+texture = ExtResource("2_fgyff")
+
+[node name="Gray23" type="Sprite2D" parent="."]
+position = Vector2(95.41515, -103.975235)
+scale = Vector2(1.0052218, 1)
+texture = ExtResource("2_fgyff")
+
+[node name="Gray24" type="Sprite2D" parent="."]
+position = Vector2(159.83292, -103.9752)
+scale = Vector2(1.023499, 1)
+texture = ExtResource("2_fgyff")
